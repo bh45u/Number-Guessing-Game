@@ -1,2 +1,9 @@
 # Number-Guessing-Game
-This is my first project as a fresher learning about C
+Number Guessing Game (1–100)
+
+A simple C program where the user guesses a randomly generated number between 1 and 100.
+
+Concepts used:
+- Loops
+- Conditional statements
+- Random number generation
